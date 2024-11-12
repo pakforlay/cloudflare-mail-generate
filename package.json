@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "Cloudflare Automate Mass Generate custome mail",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,14 +16,14 @@
     "mail",
     "Automate",
     "generate",
-    "mail",
     "Cloudflare",
-    "mail",
-    "cloudflare",
     "Auto",
     "Creator",
-    "Mail",
     "email",
+    "email routing",
+    "email creator",
+    "email custome",
+    "email generate",
     "routing"
   ],
   "author": "PakForlay",
@@ -30,5 +31,11 @@
   "bugs": {
     "url": "https://github.com/pakforlay/cloudflare-mail-generate/issues"
   },
-  "homepage": "https://github.com/pakforlay/cloudflare-mail-generate#readme"
+  "homepage": "https://github.com/pakforlay/cloudflare-mail-generate#readme",
+  "dependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.2",
+    "readline": "^1.3.0"
+  }
 }
