@@ -10,7 +10,7 @@ import fs from 'fs';
 
 const cloudflareApiKey = '#######'; // API KEY
 const cloudflareEmail = '#######'; // EMAIL AKUN CLOUDFLARE, BUKAN EMAIL DESTINASI
-const domain = '#########'; // CUSTOM DOMAIN
+const domain = '#########'; // CUSTOM DOMAIN, WAJIB DOMAIN YANG KALIAN DAFTARIN DI CLOUDFLARE NYA
 const zoneId = '########'; // Zone ID Anda
 
 const rl = readline.createInterface({
@@ -71,7 +71,7 @@ async function createCustomEmail(address, destination) {
 }
 
 console.log(`\nAuto Generate Custom Mail Routing Cloudflare by @potaldogg\n`)
-rl.question('Masukan email utama yang sudah terverifikasi di Cloudflare : ', (destination) => {
+rl.question('Masukan email utama (destinasi) yang sudah terverifikasi di Cloudflare : ', (destination) => {
   rl.question('Masukan jumlah email yang akan di generate : ', (num) => {
     const numberOfEmails = parseInt(num);
     const emailAddresses = Array.from({ length: numberOfEmails }, () => generateRandomEmail());
