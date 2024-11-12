@@ -30,5 +30,5 @@
 - LINE 13 PASTE YOUR DOMAIN
 - LINE 14 PASTE YOUR ZONE ID, GET ZONE ID FROM MENU WEBSITE REGISTER IN CLOUDFLARE. SCROLL DOWN, ON RIGHT SIDE
 
-Before using this tools, u must register your domain to cloudflare. u can see the tutor on youtube or google
-after register your domain, u must verification destination/main email. maybe tutorial from this help u [[https://www.facebook.com/share/p/14mFxofz4bb/](https://www.facebook.com/share/p/14mFxofz4bb/)]
+- Before using this tools, u must register your domain to cloudflare. u can see the tutor on youtube or google.
+- After register your domain, u must verification destination/main email. maybe tutorial from this help u [[https://www.facebook.com/share/p/14mFxofz4bb/](https://www.facebook.com/share/p/14mFxofz4bb/)]
