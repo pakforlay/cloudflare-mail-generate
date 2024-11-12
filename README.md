@@ -25,7 +25,7 @@
 - type " npm install "
 
 ## ⚠️ Note (Read this before u run this tool)
-- LINE 11 PASTE YOUR GLOBAL APIK KEY. GET API KEY ACCOUNT ON YOUR PORFILE AND CLICK API TOKEN CLICK GLOBAL
+- Get global api key [[https://dash.cloudflare.com/profile/api-tokens](https://dash.cloudflare.com/profile/api-tokens)]
 - LINE 12 PASTE YOUR EMAIL ACCOUNT CLOUDFLARE
 - LINE 13 PASTE YOUR DOMAIN
 - LINE 14 PASTE YOUR ZONE ID, GET ZONE ID FROM MENU WEBSITE REGISTER IN CLOUDFLARE. SCROLL DOWN, ON RIGHT SIDE
