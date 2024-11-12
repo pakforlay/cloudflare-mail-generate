@@ -12,7 +12,7 @@
 
 |                        Run                        |
 | --------------------------------------------------| 
-|                   open cloudmail.js               |
+|                   open cloudmail.js in code editor             |
 |    Go to line 11 - 14 and replace with your data  |
 |       Save and open cmd run `node cloudmail.js`   |
 
